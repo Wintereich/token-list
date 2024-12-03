@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "8oahPqWA2jbVhQkykLK7bqSEMCkcFov2XQ5vGBQmgdHt",
+  "symbol": "SNOW",
+  "name": "Snowcrash",
+  "decimals": 6,
+  "logoURI": "https://i.imgur.com/D668vj4.png",
+  "tags": ["utility-token"]
+}
